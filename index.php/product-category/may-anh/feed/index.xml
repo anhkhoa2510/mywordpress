@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/mywordpress/index.php/product-category/may-anh/feed/" rel="self" type="application/rss+xml" />
 	<link>https://anhkhoa2510.github.io/mywordpress</link>
 	<description>Around the world</description>
-	<lastBuildDate>Sat, 19 Jun 2021 04:26:03 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 19 Jun 2021 07:02:34 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nhóm sản phẩm 01 &#8211; khuyến mãi tháng 06</title>
+		<link>https://anhkhoa2510.github.io/mywordpress/index.php/product/nhom-san-pham-01-khuyen-mai-thang-06/</link>
+					<comments>https://anhkhoa2510.github.io/mywordpress/index.php/product/nhom-san-pham-01-khuyen-mai-thang-06/#respond</comments>
+		
+		<dc:creator><![CDATA[phanchithanh]]></dc:creator>
+		<pubDate>Sat, 19 Jun 2021 07:02:33 +0000</pubDate>
+				<guid isPermaLink="false">https://anhkhoa2510.github.io/mywordpress/?post_type=product&#038;p=164</guid>
+
+					<description><![CDATA[Nhóm sản phẩm bao gồm 2 máy ảnh đang được khuyến mãi đến hết tháng 6/2021]]></description>
+										<content:encoded><![CDATA[<p>Nhóm sản phẩm bao gồm 2 máy ảnh đang được khuyến mãi đến hết tháng 6/2021</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://anhkhoa2510.github.io/mywordpress/index.php/product/nhom-san-pham-01-khuyen-mai-thang-06/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Sony Chính Hãng &#8211; New 100% &#8211; Máy ảnh Sony Alpha A6600</title>
 		<link>https://anhkhoa2510.github.io/mywordpress/index.php/product/sony-chinh-hang-new-100-may-anh-sony-alpha-a6600/</link>
 					<comments>https://anhkhoa2510.github.io/mywordpress/index.php/product/sony-chinh-hang-new-100-may-anh-sony-alpha-a6600/#respond</comments>

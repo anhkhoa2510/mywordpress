@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Travel</title>
+	<atom:link href="http://localhost/myproject/mywordpress/index.php/product-category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://anhkhoa2510.github.io/mywordpress</link>
+	<description>Around the world</description>
+	<lastBuildDate>Sat, 19 Jun 2021 06:49:37 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://anhkhoa2510.github.io/mywordpress/wp-content/uploads/2021/06/cropped-etiqa-og-travel-32x32.jpg</url>
+	<title>Uncategorized &#8211; Travel</title>
+	<link>https://anhkhoa2510.github.io/mywordpress</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Canon 7D (Body)</title>
+		<link>https://anhkhoa2510.github.io/mywordpress/index.php/product/canon-7d-body/</link>
+					<comments>https://anhkhoa2510.github.io/mywordpress/index.php/product/canon-7d-body/#respond</comments>
+		
+		<dc:creator><![CDATA[phanchithanh]]></dc:creator>
+		<pubDate>Sat, 19 Jun 2021 06:49:37 +0000</pubDate>
+				<guid isPermaLink="false">https://anhkhoa2510.github.io/mywordpress/?post_type=product&#038;p=158</guid>
+
+					<description><![CDATA[<a class="evo-product-tabs-header">ĐẶC ĐIỂM NỔI BẬT</a>
+
+Cảm biến APS-C 18MP
+
+Hai bộ xử lí ảnh DIGIC 4
+<div class="rte description rte-summary">
+
+Màn hình 3" 920.000 điểm ảnh với lớp coating chống chói
+
+Lớp vỏ ngoài Magie chắc chắn
+
+Tốc độ chụp 8fps
+
+19 điểm lấy nét cross-type
+
+</div>]]></description>
+										<content:encoded><![CDATA[<p><a class="evo-product-tabs-header">ĐẶC ĐIỂM NỔI BẬT</a></p>
+<p>Cảm biến APS-C 18MP</p>
+<p>Hai bộ xử lí ảnh DIGIC 4</p>
+<div class="rte description rte-summary">
+<p>Màn hình 3&#8243; 920.000 điểm ảnh với lớp coating chống chói</p>
+<p>Lớp vỏ ngoài Magie chắc chắn</p>
+<p>Tốc độ chụp 8fps</p>
+<p>19 điểm lấy nét cross-type</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://anhkhoa2510.github.io/mywordpress/index.php/product/canon-7d-body/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
