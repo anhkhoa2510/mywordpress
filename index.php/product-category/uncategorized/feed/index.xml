@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; CAMERA4you</title>
+	<title>Thiết bị khác &#8211; CAMERA4you</title>
 	<atom:link href="http://localhost/myproject/mywordpress/index.php/product-category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://anhkhoa2510.github.io/mywordpress</link>
 	<description>Bringing your creativity to life.</description>
-	<lastBuildDate>Sat, 26 Jun 2021 06:34:10 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 12 Jun 2021 08:49:51 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,11 +21,25 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://anhkhoa2510.github.io/mywordpress/wp-content/uploads/2021/06/cropped-etiqa-og-travel-32x32.jpg</url>
-	<title>Uncategorized &#8211; CAMERA4you</title>
+	<url>https://anhkhoa2510.github.io/mywordpress/wp-content/uploads/2021/06/cropped-canon500-1-32x32.png</url>
+	<title>Thiết bị khác &#8211; CAMERA4you</title>
 	<link>https://anhkhoa2510.github.io/mywordpress</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-</channel>
+	<item>
+		<title>Thiết bị khác</title>
+		<link></link>
+		
+		<dc:creator><![CDATA[phanchithanh]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2021 08:49:51 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-3 "></div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
 </rss>
