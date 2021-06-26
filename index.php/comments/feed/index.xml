@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>
-	Bình luận cho Travel	</title>
+	Bình luận cho CAMERA4you	</title>
 	<atom:link href="http://localhost/myproject/mywordpress/index.php/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://anhkhoa2510.github.io/mywordpress</link>
-	<description>Around the world</description>
+	<description>Bringing your creativity to life.</description>
 	<lastBuildDate>Sat, 12 Jun 2021 02:39:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
