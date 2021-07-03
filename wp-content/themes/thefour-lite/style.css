@@ -38,6 +38,16 @@
  *
  * -----------------------------------------------------------------------------
  */
+
+ul {
+list-style-type: none !important;
+}
+li {
+list-style-type: none !important;
+}
+
+
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
